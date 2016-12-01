@@ -11,3 +11,9 @@ Clone repo. ```rackup``` to start Sinatra server locally.  DataMapper migration 
 
 - Mark Hess
 - Jump Start: Sinatra (book)
+
+## TODO
+
+- [ ] Ensure deploys
+- [ ] Add more styling
+- [ ] reorg src files
