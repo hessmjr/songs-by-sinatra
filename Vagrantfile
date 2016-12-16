@@ -6,7 +6,7 @@ Vagrant.configure(2) do |config|
     config.vm.box = "ubuntu/trusty64"
 
     # forward ports to host computer
-    config.vm.network :forwarded_port, guest: 9292, host: 9292
+    config.vm.network :forwarded_port, guest: 8765, host: 8765
 
     # Berksfile setup
     config.berkshelf.berksfile_path = "Berksfile"

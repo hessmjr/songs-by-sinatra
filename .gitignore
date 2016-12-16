@@ -54,3 +54,4 @@ Gemfile.lock
 *.logs
 *.lock
 .vagrant
+*.sass-cache
